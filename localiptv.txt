@@ -1,0 +1,61 @@
+EXTM3U
+#PLAYLIST: Channel Indonesia Full (dari iptv-org)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="TV Nasional",GTV HD
+https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="TV Nasional",MNCTV HD
+https://mncmedia.malingtv.workers.dev/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="TV Nasional",RCTI HD
+https://mncmedia.malingtv.workers.dev/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="TV Nasional",ANTV
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2qQMgN.png" group-title="TV Nasional",Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h78/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Nasional",SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h56/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCDq9Zf.png" group-title="TV Nasional",Trans TV
+https://op-group1-swiftservehd-1.dens.tv/h/h80/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6u6Gcc.png" group-title="TV Nasional",Trans7
+https://op-group1-swiftservehd-1.dens.tv/h/h81/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDkLL9F.png" group-title="TV Nasional",NET
+https://op-group1-swiftservehd-1.dens.tv/h/h82/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" group-title="TV Nasional",tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional",TVRI HD
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="TV Daerah",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Berita",Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Berita",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png" group-title="Berita",BN Channel
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" group-title="Berita",BeritaSatu
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fhv8q3/300px-Logo-IDTV-2022.png" group-title="Berita",IDTV
+https://xtdslboppkkv-pull.bpmedialive.com/live/idtv/abr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Berita",RRI Net
+https://ott-balancer.tvri.go.id/live/eds/RRI-Net/hls/RRI-Net.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" group-title="TV Daerah",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religi",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religi",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religi",Al-Iman TV
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JXjbUhB.png" group-title="TV Daerah",Ajwa TV
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="Religi",Al-Bahjah TV
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" group-title="TV Daerah",Caruban TV
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="Lainnya",MBG TV
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Hiburan",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Anak",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Hiburan",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
